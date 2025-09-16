@@ -1,4 +1,4 @@
-Gui, +AlwaysOnTop ; Set window to be always on top 
+
 Gui, Show, w350 h270
 Gui, Add, Text,, ------------------------------------------Key Delay-----------------------------------------
 Gui, Add, Edit, w300 vKeyDelay, 100
